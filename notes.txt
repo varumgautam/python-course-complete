@@ -1,0 +1,18 @@
+## functions ##
+# definition of a process
+   # to avoid repeatation of code 
+   # to arrange the program
+   # 
+#  type of function
+      # build in function  - which are already defined ex-print,max,min,len,etc
+      # user defined function  - itself defined function (itself example type)
+## step to br followed while using function:
+  
+
+  ## in built function:
+          ## call the function
+  ## user defined function:
+          ## write the definition block
+          ## call the function
+
+
